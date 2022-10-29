@@ -9,3 +9,6 @@ Console.WriteLine("Welcome feature Bar");
 
 //Bar 2 Final touch
 Console.WriteLine("Bar 2 - Final Touch");
+
+//Feature foo
+Console.WriteLine("Feature foo");
