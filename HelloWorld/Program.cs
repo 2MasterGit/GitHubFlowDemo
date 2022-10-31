@@ -12,3 +12,5 @@ Console.WriteLine("Bar 2 - Final Touch");
 
 //Feature foo
 Console.WriteLine("Feature foo");
+
+//Incluso nella demo amend.
